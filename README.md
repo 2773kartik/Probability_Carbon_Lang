@@ -7,3 +7,5 @@ As of this day (Sept 29, 2022) Carbon language is still under development and a 
 ## Usage
 Run the .carbon file in [Carbon explorer](https://github.com/carbon-language/carbon-lang#getting-started) or Run the .carbon file in [Online Carbon Compiler](https://carbon.compiler-explorer.com/) 
 
+## Output
+![Alt text](/out.jpg?raw=true)
